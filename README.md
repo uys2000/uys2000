@@ -1,4 +1,4 @@
-# Mehmet Uysak (uys2000/uys.2000)
+# Mehmet Uysal (uys2000/uys.2000)
 
 >Hi! I am Mehmet Uysal, I am a full stack web developer you can access my accounts with links below.
 
