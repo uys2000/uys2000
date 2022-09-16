@@ -8,7 +8,7 @@
 
 [![INSTA][INSTAIMG]][INSTALINK] [![IN][INIMG]][INLINK] [![GIT][GITIMG]][GITLINK]
 
-### My Web Page / Projects / Interviews  
+### My Web Page / Interviews / Projects
 
 [![WEB][WEBIMG]][WEBLINK]
 [![INT][INTIMG]][INTLINK]
