@@ -8,9 +8,11 @@
 
 [![INSTA][INSTAIMG]][INSTALINK] [![IN][INIMG]][INLINK] [![GIT][GITIMG]][GITLINK]
 
-### My Web Page
+### My Web Page / Projects / Interviews  
 
 [![WEB][WEBIMG]][WEBLINK]
+[![INT][INTIMG]][INTLINK]
+[![PRO][PROIMG]][PROLINK]
 
 ## My skills
 
@@ -48,6 +50,10 @@
 
 [WEBIMG]:https://github.com/uys2000/uys2000/blob/master/images/web.png?raw=true
 [WEBLINK]:https://mehmetuysal.tech/
+[INTIMG]:https://github.com/uys2000/uys2000/blob/master/images/int.png?raw=true
+[INTLINK]:https://github.com/uys2000-interviews
+[PROIMG]:https://github.com/uys2000/uys2000/blob/master/images/pro.png?raw=true
+[PROLINK]:https://github.com/uys2000-projects
 
 [HTML]:https://github.com/uys2000/uys2000/blob/master/images/html.png?raw=true
 [CSS]:https://github.com/uys2000/uys2000/blob/master/images/css.png?raw=true
