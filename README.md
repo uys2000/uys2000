@@ -13,4 +13,4 @@
 [WEBLINK]:https://mehmetuysal.dev/
 [INLINK]:https://www.linkedin.com/in/uys2000/
 
-[STATS]:https://github-readme-stats.vercel.app/api/top-langs/?username=uys2000&theme=blue-green&layout=compact
+[STATS]:https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uys2000&theme=transparent
