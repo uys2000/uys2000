@@ -8,9 +8,11 @@
 
 ## Stats
 
-![Most used languages][STATS]
+![General Stats][GENERALSTATS]
+![Most used languages][LANGUAGESTATS]
 
 [WEBLINK]:https://mehmetuysal.dev/
 [INLINK]:https://www.linkedin.com/in/uys2000/
 
-[STATS]:https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uys2000&theme=transparent
+[GENERALSTATS]:https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uys2000&theme=transparent
+[LANGUAGESTATS]:https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uys2000&theme=transparent
